@@ -1,0 +1,710 @@
+{
+  "schemaVersion": "1.0.0",
+  "tradition": "Rider-Waite-Smith",
+  "language": "en",
+  "cardCount": 78,
+  "cards": [
+    {
+      "id": "major-00",
+      "slug": "the-fool",
+      "name": "The Fool",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 0
+    },
+    {
+      "id": "major-01",
+      "slug": "the-magician",
+      "name": "The Magician",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 1
+    },
+    {
+      "id": "major-02",
+      "slug": "the-high-priestess",
+      "name": "The High Priestess",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 2
+    },
+    {
+      "id": "major-03",
+      "slug": "the-empress",
+      "name": "The Empress",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 3
+    },
+    {
+      "id": "major-04",
+      "slug": "the-emperor",
+      "name": "The Emperor",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 4
+    },
+    {
+      "id": "major-05",
+      "slug": "the-hierophant",
+      "name": "The Hierophant",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 5
+    },
+    {
+      "id": "major-06",
+      "slug": "the-lovers",
+      "name": "The Lovers",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 6
+    },
+    {
+      "id": "major-07",
+      "slug": "the-chariot",
+      "name": "The Chariot",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 7
+    },
+    {
+      "id": "major-08",
+      "slug": "strength",
+      "name": "Strength",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 8
+    },
+    {
+      "id": "major-09",
+      "slug": "the-hermit",
+      "name": "The Hermit",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 9
+    },
+    {
+      "id": "major-10",
+      "slug": "wheel-of-fortune",
+      "name": "Wheel of Fortune",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 10
+    },
+    {
+      "id": "major-11",
+      "slug": "justice",
+      "name": "Justice",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 11
+    },
+    {
+      "id": "major-12",
+      "slug": "the-hanged-man",
+      "name": "The Hanged Man",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 12
+    },
+    {
+      "id": "major-13",
+      "slug": "death",
+      "name": "Death",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 13
+    },
+    {
+      "id": "major-14",
+      "slug": "temperance",
+      "name": "Temperance",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 14
+    },
+    {
+      "id": "major-15",
+      "slug": "the-devil",
+      "name": "The Devil",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 15
+    },
+    {
+      "id": "major-16",
+      "slug": "the-tower",
+      "name": "The Tower",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 16
+    },
+    {
+      "id": "major-17",
+      "slug": "the-star",
+      "name": "The Star",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 17
+    },
+    {
+      "id": "major-18",
+      "slug": "the-moon",
+      "name": "The Moon",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 18
+    },
+    {
+      "id": "major-19",
+      "slug": "the-sun",
+      "name": "The Sun",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 19
+    },
+    {
+      "id": "major-20",
+      "slug": "judgement",
+      "name": "Judgement",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 20
+    },
+    {
+      "id": "major-21",
+      "slug": "the-world",
+      "name": "The World",
+      "arcana": "major",
+      "suit": null,
+      "rank": null,
+      "number": 21
+    },
+    {
+      "id": "minor-wands-ace",
+      "slug": "ace-of-wands",
+      "name": "Ace of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "ace",
+      "number": 1
+    },
+    {
+      "id": "minor-wands-two",
+      "slug": "two-of-wands",
+      "name": "Two of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "two",
+      "number": 2
+    },
+    {
+      "id": "minor-wands-three",
+      "slug": "three-of-wands",
+      "name": "Three of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "three",
+      "number": 3
+    },
+    {
+      "id": "minor-wands-four",
+      "slug": "four-of-wands",
+      "name": "Four of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "four",
+      "number": 4
+    },
+    {
+      "id": "minor-wands-five",
+      "slug": "five-of-wands",
+      "name": "Five of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "five",
+      "number": 5
+    },
+    {
+      "id": "minor-wands-six",
+      "slug": "six-of-wands",
+      "name": "Six of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "six",
+      "number": 6
+    },
+    {
+      "id": "minor-wands-seven",
+      "slug": "seven-of-wands",
+      "name": "Seven of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "seven",
+      "number": 7
+    },
+    {
+      "id": "minor-wands-eight",
+      "slug": "eight-of-wands",
+      "name": "Eight of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "eight",
+      "number": 8
+    },
+    {
+      "id": "minor-wands-nine",
+      "slug": "nine-of-wands",
+      "name": "Nine of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "nine",
+      "number": 9
+    },
+    {
+      "id": "minor-wands-ten",
+      "slug": "ten-of-wands",
+      "name": "Ten of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "ten",
+      "number": 10
+    },
+    {
+      "id": "minor-wands-page",
+      "slug": "page-of-wands",
+      "name": "Page of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "page",
+      "number": 11
+    },
+    {
+      "id": "minor-wands-knight",
+      "slug": "knight-of-wands",
+      "name": "Knight of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "knight",
+      "number": 12
+    },
+    {
+      "id": "minor-wands-queen",
+      "slug": "queen-of-wands",
+      "name": "Queen of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "queen",
+      "number": 13
+    },
+    {
+      "id": "minor-wands-king",
+      "slug": "king-of-wands",
+      "name": "King of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "king",
+      "number": 14
+    },
+    {
+      "id": "minor-cups-ace",
+      "slug": "ace-of-cups",
+      "name": "Ace of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "ace",
+      "number": 1
+    },
+    {
+      "id": "minor-cups-two",
+      "slug": "two-of-cups",
+      "name": "Two of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "two",
+      "number": 2
+    },
+    {
+      "id": "minor-cups-three",
+      "slug": "three-of-cups",
+      "name": "Three of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "three",
+      "number": 3
+    },
+    {
+      "id": "minor-cups-four",
+      "slug": "four-of-cups",
+      "name": "Four of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "four",
+      "number": 4
+    },
+    {
+      "id": "minor-cups-five",
+      "slug": "five-of-cups",
+      "name": "Five of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "five",
+      "number": 5
+    },
+    {
+      "id": "minor-cups-six",
+      "slug": "six-of-cups",
+      "name": "Six of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "six",
+      "number": 6
+    },
+    {
+      "id": "minor-cups-seven",
+      "slug": "seven-of-cups",
+      "name": "Seven of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "seven",
+      "number": 7
+    },
+    {
+      "id": "minor-cups-eight",
+      "slug": "eight-of-cups",
+      "name": "Eight of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "eight",
+      "number": 8
+    },
+    {
+      "id": "minor-cups-nine",
+      "slug": "nine-of-cups",
+      "name": "Nine of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "nine",
+      "number": 9
+    },
+    {
+      "id": "minor-cups-ten",
+      "slug": "ten-of-cups",
+      "name": "Ten of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "ten",
+      "number": 10
+    },
+    {
+      "id": "minor-cups-page",
+      "slug": "page-of-cups",
+      "name": "Page of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "page",
+      "number": 11
+    },
+    {
+      "id": "minor-cups-knight",
+      "slug": "knight-of-cups",
+      "name": "Knight of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "knight",
+      "number": 12
+    },
+    {
+      "id": "minor-cups-queen",
+      "slug": "queen-of-cups",
+      "name": "Queen of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "queen",
+      "number": 13
+    },
+    {
+      "id": "minor-cups-king",
+      "slug": "king-of-cups",
+      "name": "King of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "king",
+      "number": 14
+    },
+    {
+      "id": "minor-swords-ace",
+      "slug": "ace-of-swords",
+      "name": "Ace of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "ace",
+      "number": 1
+    },
+    {
+      "id": "minor-swords-two",
+      "slug": "two-of-swords",
+      "name": "Two of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "two",
+      "number": 2
+    },
+    {
+      "id": "minor-swords-three",
+      "slug": "three-of-swords",
+      "name": "Three of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "three",
+      "number": 3
+    },
+    {
+      "id": "minor-swords-four",
+      "slug": "four-of-swords",
+      "name": "Four of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "four",
+      "number": 4
+    },
+    {
+      "id": "minor-swords-five",
+      "slug": "five-of-swords",
+      "name": "Five of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "five",
+      "number": 5
+    },
+    {
+      "id": "minor-swords-six",
+      "slug": "six-of-swords",
+      "name": "Six of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "six",
+      "number": 6
+    },
+    {
+      "id": "minor-swords-seven",
+      "slug": "seven-of-swords",
+      "name": "Seven of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "seven",
+      "number": 7
+    },
+    {
+      "id": "minor-swords-eight",
+      "slug": "eight-of-swords",
+      "name": "Eight of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "eight",
+      "number": 8
+    },
+    {
+      "id": "minor-swords-nine",
+      "slug": "nine-of-swords",
+      "name": "Nine of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "nine",
+      "number": 9
+    },
+    {
+      "id": "minor-swords-ten",
+      "slug": "ten-of-swords",
+      "name": "Ten of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "ten",
+      "number": 10
+    },
+    {
+      "id": "minor-swords-page",
+      "slug": "page-of-swords",
+      "name": "Page of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "page",
+      "number": 11
+    },
+    {
+      "id": "minor-swords-knight",
+      "slug": "knight-of-swords",
+      "name": "Knight of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "knight",
+      "number": 12
+    },
+    {
+      "id": "minor-swords-queen",
+      "slug": "queen-of-swords",
+      "name": "Queen of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "queen",
+      "number": 13
+    },
+    {
+      "id": "minor-swords-king",
+      "slug": "king-of-swords",
+      "name": "King of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "king",
+      "number": 14
+    },
+    {
+      "id": "minor-pentacles-ace",
+      "slug": "ace-of-pentacles",
+      "name": "Ace of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "ace",
+      "number": 1
+    },
+    {
+      "id": "minor-pentacles-two",
+      "slug": "two-of-pentacles",
+      "name": "Two of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "two",
+      "number": 2
+    },
+    {
+      "id": "minor-pentacles-three",
+      "slug": "three-of-pentacles",
+      "name": "Three of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "three",
+      "number": 3
+    },
+    {
+      "id": "minor-pentacles-four",
+      "slug": "four-of-pentacles",
+      "name": "Four of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "four",
+      "number": 4
+    },
+    {
+      "id": "minor-pentacles-five",
+      "slug": "five-of-pentacles",
+      "name": "Five of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "five",
+      "number": 5
+    },
+    {
+      "id": "minor-pentacles-six",
+      "slug": "six-of-pentacles",
+      "name": "Six of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "six",
+      "number": 6
+    },
+    {
+      "id": "minor-pentacles-seven",
+      "slug": "seven-of-pentacles",
+      "name": "Seven of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "seven",
+      "number": 7
+    },
+    {
+      "id": "minor-pentacles-eight",
+      "slug": "eight-of-pentacles",
+      "name": "Eight of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "eight",
+      "number": 8
+    },
+    {
+      "id": "minor-pentacles-nine",
+      "slug": "nine-of-pentacles",
+      "name": "Nine of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "nine",
+      "number": 9
+    },
+    {
+      "id": "minor-pentacles-ten",
+      "slug": "ten-of-pentacles",
+      "name": "Ten of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "ten",
+      "number": 10
+    },
+    {
+      "id": "minor-pentacles-page",
+      "slug": "page-of-pentacles",
+      "name": "Page of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "page",
+      "number": 11
+    },
+    {
+      "id": "minor-pentacles-knight",
+      "slug": "knight-of-pentacles",
+      "name": "Knight of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "knight",
+      "number": 12
+    },
+    {
+      "id": "minor-pentacles-queen",
+      "slug": "queen-of-pentacles",
+      "name": "Queen of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "queen",
+      "number": 13
+    },
+    {
+      "id": "minor-pentacles-king",
+      "slug": "king-of-pentacles",
+      "name": "King of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "king",
+      "number": 14
+    }
+  ]
+}

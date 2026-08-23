@@ -1,0 +1,40 @@
+{
+  "name": "tarotpro-tarot-data",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A lightweight 78-card tarot dataset and deterministic draw utility maintained by TarotPro.",
+  "type": "module",
+  "exports": "./src/index.js",
+  "files": [
+    "data",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "check:data": "node scripts/check-data.mjs",
+    "test": "node --test",
+    "verify": "npm run build:data && npm run check:data && npm test"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "license": "MIT",
+  "homepage": "https://tarotpro.ai/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shisan913/tarotpro-tarot-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shisan913/tarotpro-tarot-data/issues"
+  },
+  "keywords": [
+    "tarot",
+    "tarot-cards",
+    "rider-waite-smith",
+    "dataset",
+    "javascript"
+  ]
+}
+
