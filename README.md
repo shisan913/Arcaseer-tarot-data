@@ -1,8 +1,8 @@
-# TarotPro Tarot Data
+# ArcaSeer Tarot Data
 
-A lightweight, structured 78-card tarot dataset and deterministic draw utility maintained by [TarotPro](https://tarotpro.ai/).
+A lightweight, structured 78-card tarot dataset and deterministic draw utility maintained by [ArcaSeer](https://arcaseer.com/).
 
-The repository is intentionally small: it provides stable card identifiers and basic deck taxonomy for prototypes, examples, and automated tests. It does not contain TarotPro's editorial card interpretations, prompts, user data, product source code, or artwork.
+The repository is intentionally small: it provides stable card identifiers and basic deck taxonomy for prototypes, examples, and automated tests. It does not contain ArcaSeer's editorial card interpretations, prompts, user data, product source code, or artwork.
 
 ## Included
 
@@ -38,11 +38,11 @@ import { cards, drawCards, getCard } from "./src/index.js";
 console.log(cards.length); // 78
 console.log(getCard("the-fool"));
 
-const reading = drawCards(3, { seed: "tarotpro-example" });
+const reading = drawCards(3, { seed: "arcaseer-example" });
 console.log(reading.map((card) => card.name));
 ```
 
-The `seed` option is intended for repeatable examples and automated tests. Omit it for a normal `Math.random()` draw. Neither mode is intended for cryptographic or security-sensitive use.
+The `seed` option is intended for repeatable examples and automated tests. Omit it for a normal `Math.random()` draw. Neither mode is intended for cryptographic or security-sensitive use. Draws return card metadata only; they do not assign upright or reversed orientations or generate interpretations.
 
 ## Verify the project
 
@@ -54,9 +54,9 @@ npm run verify
 
 This regenerates the canonical JSON file, validates the 78-card deck structure, and runs the utility tests.
 
-## Live TarotPro experience
+## Explore ArcaSeer
 
-Use the data in a browser-based experience with the [TarotPro Tarot Card Generator](https://tarotpro.ai/tarot-card-generator).
+Visit [ArcaSeer](https://arcaseer.com/) for free AI tarot readings and tarot tools. This standalone dataset is a developer resource; it does not reproduce the website's full reading behavior.
 
 ## Scope and safety
 

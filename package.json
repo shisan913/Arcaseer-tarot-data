@@ -1,8 +1,8 @@
 {
-  "name": "tarotpro-tarot-data",
+  "name": "arcaseer-tarot-data",
   "version": "0.1.0",
   "private": true,
-  "description": "A lightweight 78-card tarot dataset and deterministic draw utility maintained by TarotPro.",
+  "description": "A lightweight 78-card tarot dataset and deterministic draw utility maintained by ArcaSeer.",
   "type": "module",
   "exports": "./src/index.js",
   "files": [
@@ -21,13 +21,13 @@
     "node": ">=20.10"
   },
   "license": "MIT",
-  "homepage": "https://tarotpro.ai/",
+  "homepage": "https://arcaseer.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shisan913/tarotpro-tarot-data.git"
+    "url": "git+https://github.com/shisan913/Arcaseer-tarot-data.git"
   },
   "bugs": {
-    "url": "https://github.com/shisan913/tarotpro-tarot-data/issues"
+    "url": "https://github.com/shisan913/Arcaseer-tarot-data/issues"
   },
   "keywords": [
     "tarot",

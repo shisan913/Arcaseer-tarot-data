@@ -17,8 +17,8 @@ test("looks up cards by id, slug, and name", () => {
 });
 
 test("returns repeatable draws for a seed", () => {
-  const first = drawCards(3, { seed: "tarotpro-example" }).map((card) => card.id);
-  const second = drawCards(3, { seed: "tarotpro-example" }).map((card) => card.id);
+  const first = drawCards(3, { seed: "arcaseer-example" }).map((card) => card.id);
+  const second = drawCards(3, { seed: "arcaseer-example" }).map((card) => card.id);
   assert.deepEqual(first, second);
 });
 
